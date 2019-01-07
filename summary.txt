@@ -1,0 +1,155 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (5x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         29 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (3x)
+	                       SERGEANT AT ARMS (1x)
+	                       COMMITTEE ON APPROPRIATIONS (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (5x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         24 characters
+	Most common values:    ADMIN AND OPS (3x)
+	                       NON - PERSONNEL (1x)
+	                       APPROPRIATIONS COMMITTEE (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (5x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2017-01-20
+	Largest value:         2017-03-28
+	Most common values:    2017-02-27 (3x)
+	                       2017-01-20 (1x)
+	                       2017-03-28 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (5x)
+
+  8. "RECORDID"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        900,787
+	Largest value:         912,405
+	Sum:                   4,533,517
+	Mean:                  906,703.4
+	Median:                906,775
+	StDev:                 4,108.753
+	Most common values:    906,775 (3x)
+	                       900,787 (1x)
+	                       912,405 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         9 characters
+	Most common values:    DEER PARK (5x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2016-12-31
+	Largest value:         2017-02-28
+	Most common values:    2017-01-31 (3x)
+	                       2016-12-31 (1x)
+	                       2017-02-28 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2016-12-31
+	Largest value:         2017-02-28
+	Most common values:    2017-01-31 (3x)
+	                       2016-12-31 (1x)
+	                       2017-02-28 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         5 characters
+	Most common values:    WATER (5x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        1,174.03
+	Largest value:         1,577.37
+	Sum:                   6,833.65
+	Mean:                  1,366.73
+	Median:                1,369.41
+	StDev:                 169.912
+	Most common values:    1,486.34 (1x)
+	                       1,369.41 (1x)
+	                       1,577.37 (1x)
+	                       1,174.03 (1x)
+	                       1,226.5 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   10,084
+	Mean:                  2,016.8
+	Median:                2,017
+	StDev:                 0.447
+	Most common values:    2,017 (4x)
+	                       2,016 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         9 characters
+	Most common values:    DEER PARK (5x)
+
+Row count: 5
